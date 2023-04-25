@@ -10,3 +10,5 @@ Haciendo segundo cambio.
 11:14 Estoy dejando todo un poco más ordenado y limpio :D
 ##Martes 25 de abril
 Seguimos practicando el uso del merge, pull-request y hoy empezamos con el concepto de rebase.
+<br>
+No parece ir tan bien como ayer :S
