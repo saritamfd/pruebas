@@ -1,0 +1,13 @@
+h1 {
+    font-size: smaller;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+p {
+    padding: 10%;
+    margin-inline: inherit;
+    background-color: coral;
+    font-size: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
